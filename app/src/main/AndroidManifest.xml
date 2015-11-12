@@ -10,7 +10,7 @@
         android:theme="@style/MyMaterialTheme" >
         <activity
             android:name=".MainActivity"
-            android:label="Tabs ok but wrong layout"
+            android:label=" JOBz Tabs ok next collapsible"
             android:theme="@style/MyMaterialTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
