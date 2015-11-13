@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFrag(new OneFragment(), "SEARCH");
         adapter.addFrag(new TwoFragment(), "ALL CHATS");
-        adapter.addFrag(new ThreeFragment(), "?");
+        adapter.addFrag(new ThreeFragment(), "???");
         viewPager.setAdapter(adapter);
     }
 
